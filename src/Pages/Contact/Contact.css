@@ -1,0 +1,15 @@
+container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+input,textarea{
+    padding: 8px 5px;
+    margin: 15px 0;
+    width: 200%;
+    display: block;
+}
+Button{
+    width: 50%;
+}
