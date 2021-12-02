@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faFacebook, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 const Footer = () => {
     return (
-        <Container class="bg-dark text-white">
+      <Container className="bg-dark text-white" fluid>
             <Row>
                 <Col md={4}>
                 <h4 class='p-2'>Designed and Developed by Abrar Hossain</h4>

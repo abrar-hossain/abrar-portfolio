@@ -10,6 +10,7 @@ const Navbars = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
               <Nav.Link style={{ color: 'white',fontSize: '20px' }} href="/home">Home</Nav.Link>
+              <Nav.Link style={{ color: 'white', fontSize: '20px' }} href="/about">About</Nav.Link>
               <Nav.Link style={{ color: 'white',fontSize: '20px' }} href="/contact">Contact</Nav.Link>
               <Nav.Link style={{ color: 'white',fontSize: '20px' }} href="/projects">Projects</Nav.Link>
               <Nav.Link style={{ color: 'white',fontSize: '20px' }} href="/problemSolving">Problem Solving</Nav.Link>
